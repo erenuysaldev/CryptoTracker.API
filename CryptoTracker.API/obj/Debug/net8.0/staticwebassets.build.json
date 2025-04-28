@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ftc8F+f7CDf2cRkp/SeSfzCF8x+/hKTce2SyaIAC9wE=",
+  "Source": "CryptoTracker.API",
+  "BasePath": "_content/CryptoTracker.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
