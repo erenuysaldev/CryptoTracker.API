@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren\\Tracker\\CryptoTracker\\CryptoTracker\\CryptoTracker.csproj": {}
+    "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren2\\CryptoTracker\\CryptoTracker\\CryptoTracker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren\\Tracker\\CryptoTracker\\CryptoTracker\\CryptoTracker.csproj": {
+    "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren2\\CryptoTracker\\CryptoTracker\\CryptoTracker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren\\Tracker\\CryptoTracker\\CryptoTracker\\CryptoTracker.csproj",
+        "projectUniqueName": "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren2\\CryptoTracker\\CryptoTracker\\CryptoTracker.csproj",
         "projectName": "CryptoTracker",
-        "projectPath": "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren\\Tracker\\CryptoTracker\\CryptoTracker\\CryptoTracker.csproj",
+        "projectPath": "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren2\\CryptoTracker\\CryptoTracker\\CryptoTracker.csproj",
         "packagesPath": "C:\\Users\\Matbaaloji Yazılım\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren\\Tracker\\CryptoTracker\\CryptoTracker\\obj\\",
+        "outputPath": "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren2\\CryptoTracker\\CryptoTracker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

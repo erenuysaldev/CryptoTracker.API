@@ -9,9 +9,11 @@ namespace CryptoTracker.Domain.Entities
     public class Favorite
     {
         public int Id { get; set; }
-        public int UserId { get; set; }
-        public User User { get; set; } = null!;
         public int CoinId { get; set; }
+        public string UserId { get; set; }
         public Coin Coin { get; set; } = null!;
+        public User User { get; set; } = null!;
+        
+        
     }
 }

@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matbaaloji Yaz\u0131l\u0131m\\Desktop\\eren2\\CryptoTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62E0396C-CC17-429F-A922-EB6D16BB7E15}|CryptoTracker.Infrastructure\\CryptoTracker.Infrastructure.csproj|c:\\users\\matbaaloji yaz\u0131l\u0131m\\desktop\\eren2\\cryptotracker\\cryptotracker.infrastructure\\persistence\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62E0396C-CC17-429F-A922-EB6D16BB7E15}|CryptoTracker.Infrastructure\\CryptoTracker.Infrastructure.csproj|solutionrelative:cryptotracker.infrastructure\\persistence\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E0396C-CC17-429F-A922-EB6D16BB7E15}|CryptoTracker.Infrastructure\\CryptoTracker.Infrastructure.csproj|c:\\users\\matbaaloji yaz\u0131l\u0131m\\desktop\\eren2\\cryptotracker\\cryptotracker.infrastructure\\persistence\\identityuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62E0396C-CC17-429F-A922-EB6D16BB7E15}|CryptoTracker.Infrastructure\\CryptoTracker.Infrastructure.csproj|solutionrelative:cryptotracker.infrastructure\\persistence\\identityuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E0396C-CC17-429F-A922-EB6D16BB7E15}|CryptoTracker.Infrastructure\\CryptoTracker.Infrastructure.csproj|c:\\users\\matbaaloji yaz\u0131l\u0131m\\desktop\\eren2\\cryptotracker\\cryptotracker.infrastructure\\persistence\\identitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62E0396C-CC17-429F-A922-EB6D16BB7E15}|CryptoTracker.Infrastructure\\CryptoTracker.Infrastructure.csproj|solutionrelative:cryptotracker.infrastructure\\persistence\\identitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0F8D61-172B-47CD-BE97-6E7EA7A65933}|CryptoTracker.Domain\\CryptoTracker.Domain.csproj|c:\\users\\matbaaloji yaz\u0131l\u0131m\\desktop\\eren2\\cryptotracker\\cryptotracker.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0F8D61-172B-47CD-BE97-6E7EA7A65933}|CryptoTracker.Domain\\CryptoTracker.Domain.csproj|solutionrelative:cryptotracker.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0F8D61-172B-47CD-BE97-6E7EA7A65933}|CryptoTracker.Domain\\CryptoTracker.Domain.csproj|c:\\users\\matbaaloji yaz\u0131l\u0131m\\desktop\\eren2\\cryptotracker\\cryptotracker.domain\\entities\\favorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0F8D61-172B-47CD-BE97-6E7EA7A65933}|CryptoTracker.Domain\\CryptoTracker.Domain.csproj|solutionrelative:cryptotracker.domain\\entities\\favorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0F8D61-172B-47CD-BE97-6E7EA7A65933}|CryptoTracker.Domain\\CryptoTracker.Domain.csproj|c:\\users\\matbaaloji yaz\u0131l\u0131m\\desktop\\eren2\\cryptotracker\\cryptotracker.domain\\entities\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0F8D61-172B-47CD-BE97-6E7EA7A65933}|CryptoTracker.Domain\\CryptoTracker.Domain.csproj|solutionrelative:cryptotracker.domain\\entities\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33591296-B736-402E-93FD-CA4452E8B3B1}|CryptoTracker.API\\CryptoTracker.API.csproj|c:\\users\\matbaaloji yaz\u0131l\u0131m\\desktop\\eren2\\cryptotracker\\cryptotracker.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33591296-B736-402E-93FD-CA4452E8B3B1}|CryptoTracker.API\\CryptoTracker.API.csproj|solutionrelative:cryptotracker.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33591296-B736-402E-93FD-CA4452E8B3B1}|CryptoTracker.API\\CryptoTracker.API.csproj|c:\\users\\matbaaloji yaz\u0131l\u0131m\\desktop\\eren2\\cryptotracker\\cryptotracker.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{33591296-B736-402E-93FD-CA4452E8B3B1}|CryptoTracker.API\\CryptoTracker.API.csproj|solutionrelative:cryptotracker.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E0396C-CC17-429F-A922-EB6D16BB7E15}|CryptoTracker.Infrastructure\\CryptoTracker.Infrastructure.csproj|c:\\users\\matbaaloji yaz\u0131l\u0131m\\desktop\\eren2\\cryptotracker\\cryptotracker.infrastructure\\persistence\\idesigntimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62E0396C-CC17-429F-A922-EB6D16BB7E15}|CryptoTracker.Infrastructure\\CryptoTracker.Infrastructure.csproj|solutionrelative:cryptotracker.infrastructure\\persistence\\idesigntimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33591296-B736-402E-93FD-CA4452E8B3B1}|CryptoTracker.API\\CryptoTracker.API.csproj|c:\\users\\matbaaloji yaz\u0131l\u0131m\\desktop\\eren2\\cryptotracker\\cryptotracker.api\\data\\identityappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33591296-B736-402E-93FD-CA4452E8B3B1}|CryptoTracker.API\\CryptoTracker.API.csproj|solutionrelative:cryptotracker.api\\data\\identityappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E0396C-CC17-429F-A922-EB6D16BB7E15}|CryptoTracker.Infrastructure\\CryptoTracker.Infrastructure.csproj|c:\\users\\matbaaloji yaz\u0131l\u0131m\\desktop\\eren2\\cryptotracker\\cryptotracker.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62E0396C-CC17-429F-A922-EB6D16BB7E15}|CryptoTracker.Infrastructure\\CryptoTracker.Infrastructure.csproj|solutionrelative:cryptotracker.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33591296-B736-402E-93FD-CA4452E8B3B1}|CryptoTracker.API\\CryptoTracker.API.csproj|c:\\users\\matbaaloji yaz\u0131l\u0131m\\desktop\\eren2\\cryptotracker\\cryptotracker.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33591296-B736-402E-93FD-CA4452E8B3B1}|CryptoTracker.API\\CryptoTracker.API.csproj|solutionrelative:cryptotracker.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33591296-B736-402E-93FD-CA4452E8B3B1}|CryptoTracker.API\\CryptoTracker.API.csproj|c:\\users\\matbaaloji yaz\u0131l\u0131m\\desktop\\eren2\\cryptotracker\\cryptotracker.api\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33591296-B736-402E-93FD-CA4452E8B3B1}|CryptoTracker.API\\CryptoTracker.API.csproj|solutionrelative:cryptotracker.api\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33591296-B736-402E-93FD-CA4452E8B3B1}|CryptoTracker.API\\CryptoTracker.API.csproj|c:\\users\\matbaaloji yaz\u0131l\u0131m\\desktop\\eren2\\cryptotracker\\cryptotracker.api\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33591296-B736-402E-93FD-CA4452E8B3B1}|CryptoTracker.API\\CryptoTracker.API.csproj|solutionrelative:cryptotracker.api\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33591296-B736-402E-93FD-CA4452E8B3B1}|CryptoTracker.API\\CryptoTracker.API.csproj|c:\\users\\matbaaloji yaz\u0131l\u0131m\\desktop\\eren2\\cryptotracker\\cryptotracker.api\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33591296-B736-402E-93FD-CA4452E8B3B1}|CryptoTracker.API\\CryptoTracker.API.csproj|solutionrelative:cryptotracker.api\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33591296-B736-402E-93FD-CA4452E8B3B1}|CryptoTracker.API\\CryptoTracker.API.csproj|c:\\users\\matbaaloji yaz\u0131l\u0131m\\desktop\\eren2\\cryptotracker\\cryptotracker.api\\cryptotracker.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{33591296-B736-402E-93FD-CA4452E8B3B1}|CryptoTracker.API\\CryptoTracker.API.csproj|solutionrelative:cryptotracker.api\\cryptotracker.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33591296-B736-402E-93FD-CA4452E8B3B1}|CryptoTracker.API\\CryptoTracker.API.csproj|c:\\users\\matbaaloji yaz\u0131l\u0131m\\desktop\\eren2\\cryptotracker\\cryptotracker.api\\migrations\\20250428092701_identitymigration2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33591296-B736-402E-93FD-CA4452E8B3B1}|CryptoTracker.API\\CryptoTracker.API.csproj|solutionrelative:cryptotracker.api\\migrations\\20250428092701_identitymigration2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E0396C-CC17-429F-A922-EB6D16BB7E15}|CryptoTracker.Infrastructure\\CryptoTracker.Infrastructure.csproj|c:\\users\\matbaaloji yaz\u0131l\u0131m\\desktop\\eren2\\cryptotracker\\cryptotracker.infrastructure\\migrations\\20250428092631_maindbcontextmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62E0396C-CC17-429F-A922-EB6D16BB7E15}|CryptoTracker.Infrastructure\\CryptoTracker.Infrastructure.csproj|solutionrelative:cryptotracker.infrastructure\\migrations\\20250428092631_maindbcontextmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33591296-B736-402E-93FD-CA4452E8B3B1}|CryptoTracker.API\\CryptoTracker.API.csproj|c:\\users\\matbaaloji yaz\u0131l\u0131m\\desktop\\eren2\\cryptotracker\\cryptotracker.api\\migrations\\20250428091820_identitymigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33591296-B736-402E-93FD-CA4452E8B3B1}|CryptoTracker.API\\CryptoTracker.API.csproj|solutionrelative:cryptotracker.api\\migrations\\20250428091820_identitymigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IdentityUser.cs",
+              "DocumentMoniker": "C:\\Users\\Matbaaloji Yaz\u0131l\u0131m\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.Infrastructure\\Persistence\\IdentityUser.cs",
+              "RelativeDocumentMoniker": "CryptoTracker.Infrastructure\\Persistence\\IdentityUser.cs",
+              "ToolTip": "C:\\Users\\Matbaaloji Yaz\u0131l\u0131m\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.Infrastructure\\Persistence\\IdentityUser.cs",
+              "RelativeToolTip": "CryptoTracker.Infrastructure\\Persistence\\IdentityUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T11:04:01.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\Matbaaloji Yaz\u0131l\u0131m\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.Infrastructure\\Persistence\\DataSeeder.cs",
+              "RelativeDocumentMoniker": "CryptoTracker.Infrastructure\\Persistence\\DataSeeder.cs",
+              "ToolTip": "C:\\Users\\Matbaaloji Yaz\u0131l\u0131m\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.Infrastructure\\Persistence\\DataSeeder.cs",
+              "RelativeToolTip": "CryptoTracker.Infrastructure\\Persistence\\DataSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:39:24.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250428092631_MainDbContextMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Matbaaloji Yaz\u0131l\u0131m\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.Infrastructure\\Migrations\\20250428092631_MainDbContextMigration.cs",
+              "RelativeDocumentMoniker": "CryptoTracker.Infrastructure\\Migrations\\20250428092631_MainDbContextMigration.cs",
+              "ToolTip": "C:\\Users\\Matbaaloji Yaz\u0131l\u0131m\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.Infrastructure\\Migrations\\20250428092631_MainDbContextMigration.cs",
+              "RelativeToolTip": "CryptoTracker.Infrastructure\\Migrations\\20250428092631_MainDbContextMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:26:31.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDesignTimeDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Matbaaloji Yaz\u0131l\u0131m\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.Infrastructure\\Persistence\\IDesignTimeDbContextFactory.cs",
+              "RelativeDocumentMoniker": "CryptoTracker.Infrastructure\\Persistence\\IDesignTimeDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\Matbaaloji Yaz\u0131l\u0131m\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.Infrastructure\\Persistence\\IDesignTimeDbContextFactory.cs",
+              "RelativeToolTip": "CryptoTracker.Infrastructure\\Persistence\\IDesignTimeDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:25:58.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Matbaaloji Yaz\u0131l\u0131m\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.API\\appsettings.json",
+              "RelativeDocumentMoniker": "CryptoTracker.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Matbaaloji Yaz\u0131l\u0131m\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.API\\appsettings.json",
+              "RelativeToolTip": "CryptoTracker.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-28T08:09:12.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Matbaaloji Yaz\u0131l\u0131m\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "CryptoTracker.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Matbaaloji Yaz\u0131l\u0131m\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "CryptoTracker.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T08:40:58.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Coin.cs",
+              "DocumentMoniker": "C:\\Users\\Matbaaloji Yaz\u0131l\u0131m\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.Domain\\Entities\\Coin.cs",
+              "RelativeDocumentMoniker": "CryptoTracker.Domain\\Entities\\Coin.cs",
+              "ToolTip": "C:\\Users\\Matbaaloji Yaz\u0131l\u0131m\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.Domain\\Entities\\Coin.cs",
+              "RelativeToolTip": "CryptoTracker.Domain\\Entities\\Coin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T08:39:44.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Favorite.cs",
+              "DocumentMoniker": "C:\\Users\\Matbaaloji Yaz\u0131l\u0131m\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.Domain\\Entities\\Favorite.cs",
+              "RelativeDocumentMoniker": "CryptoTracker.Domain\\Entities\\Favorite.cs",
+              "ToolTip": "C:\\Users\\Matbaaloji Yaz\u0131l\u0131m\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.Domain\\Entities\\Favorite.cs",
+              "RelativeToolTip": "CryptoTracker.Domain\\Entities\\Favorite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T08:40:57.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IdentityDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Matbaaloji Yaz\u0131l\u0131m\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.Infrastructure\\Persistence\\IdentityDbContext.cs",
+              "RelativeDocumentMoniker": "CryptoTracker.Infrastructure\\Persistence\\IdentityDbContext.cs",
+              "ToolTip": "C:\\Users\\Matbaaloji Yaz\u0131l\u0131m\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.Infrastructure\\Persistence\\IdentityDbContext.cs",
+              "RelativeToolTip": "CryptoTracker.Infrastructure\\Persistence\\IdentityDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:50:29.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250428092701_IdentityMigration2.cs",
+              "DocumentMoniker": "C:\\Users\\Matbaaloji Yaz\u0131l\u0131m\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.API\\Migrations\\20250428092701_IdentityMigration2.cs",
+              "RelativeDocumentMoniker": "CryptoTracker.API\\Migrations\\20250428092701_IdentityMigration2.cs",
+              "ToolTip": "C:\\Users\\Matbaaloji Yaz\u0131l\u0131m\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.API\\Migrations\\20250428092701_IdentityMigration2.cs",
+              "RelativeToolTip": "CryptoTracker.API\\Migrations\\20250428092701_IdentityMigration2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:27:01.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matbaaloji Yaz\u0131l\u0131m\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.API\\Program.cs",
+              "RelativeDocumentMoniker": "CryptoTracker.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Matbaaloji Yaz\u0131l\u0131m\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.API\\Program.cs",
+              "RelativeToolTip": "CryptoTracker.API\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T08:23:41.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IdentityAppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Matbaaloji Yaz\u0131l\u0131m\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.API\\Data\\IdentityAppDbContext.cs",
+              "RelativeDocumentMoniker": "CryptoTracker.API\\Data\\IdentityAppDbContext.cs",
+              "ToolTip": "C:\\Users\\Matbaaloji Yaz\u0131l\u0131m\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.API\\Data\\IdentityAppDbContext.cs",
+              "RelativeToolTip": "CryptoTracker.API\\Data\\IdentityAppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:04:54.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Matbaaloji Yaz\u0131l\u0131m\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "CryptoTracker.API\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Matbaaloji Yaz\u0131l\u0131m\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "CryptoTracker.API\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:08:58.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Matbaaloji Yaz\u0131l\u0131m\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.API\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "CryptoTracker.API\\Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\Matbaaloji Yaz\u0131l\u0131m\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.API\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "CryptoTracker.API\\Models\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:09:40.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Matbaaloji Yaz\u0131l\u0131m\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.API\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "CryptoTracker.API\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Matbaaloji Yaz\u0131l\u0131m\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.API\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "CryptoTracker.API\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:10:11.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Matbaaloji Yaz\u0131l\u0131m\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CryptoTracker.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Matbaaloji Yaz\u0131l\u0131m\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "CryptoTracker.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T08:04:46.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250428091820_IdentityMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Matbaaloji Yaz\u0131l\u0131m\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.API\\Migrations\\20250428091820_IdentityMigration.cs",
+              "RelativeDocumentMoniker": "CryptoTracker.API\\Migrations\\20250428091820_IdentityMigration.cs",
+              "ToolTip": "C:\\Users\\Matbaaloji Yaz\u0131l\u0131m\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.API\\Migrations\\20250428091820_IdentityMigration.cs",
+              "RelativeToolTip": "CryptoTracker.API\\Migrations\\20250428091820_IdentityMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:18:20.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Matbaaloji Yaz\u0131l\u0131m\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.API\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "CryptoTracker.API\\Data\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Matbaaloji Yaz\u0131l\u0131m\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.API\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "CryptoTracker.API\\Data\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:04:26.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CryptoTracker.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Matbaaloji Yaz\u0131l\u0131m\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.API\\CryptoTracker.API.csproj",
+              "RelativeDocumentMoniker": "CryptoTracker.API\\CryptoTracker.API.csproj",
+              "ToolTip": "C:\\Users\\Matbaaloji Yaz\u0131l\u0131m\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.API\\CryptoTracker.API.csproj",
+              "RelativeToolTip": "CryptoTracker.API\\CryptoTracker.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-28T08:30:50.496Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

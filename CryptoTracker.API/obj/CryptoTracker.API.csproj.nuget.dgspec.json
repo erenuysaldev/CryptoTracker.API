@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren\\Tracker\\CryptoTracker\\CryptoTracker.API\\CryptoTracker.API.csproj": {}
+    "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.API\\CryptoTracker.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren\\Tracker\\CryptoTracker\\CryptoTracker.API\\CryptoTracker.API.csproj": {
+    "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.API\\CryptoTracker.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren\\Tracker\\CryptoTracker\\CryptoTracker.API\\CryptoTracker.API.csproj",
+        "projectUniqueName": "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.API\\CryptoTracker.API.csproj",
         "projectName": "CryptoTracker.API",
-        "projectPath": "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren\\Tracker\\CryptoTracker\\CryptoTracker.API\\CryptoTracker.API.csproj",
+        "projectPath": "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.API\\CryptoTracker.API.csproj",
         "packagesPath": "C:\\Users\\Matbaaloji Yazılım\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren\\Tracker\\CryptoTracker\\CryptoTracker.API\\obj\\",
+        "outputPath": "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren\\Tracker\\CryptoTracker\\CryptoTracker.Application\\CryptoTracker.Application.csproj": {
-                "projectPath": "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren\\Tracker\\CryptoTracker\\CryptoTracker.Application\\CryptoTracker.Application.csproj"
+              "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.Application\\CryptoTracker.Application.csproj": {
+                "projectPath": "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.Application\\CryptoTracker.Application.csproj"
               },
-              "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren\\Tracker\\CryptoTracker\\CryptoTracker.Infrastructure\\CryptoTracker.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren\\Tracker\\CryptoTracker\\CryptoTracker.Infrastructure\\CryptoTracker.Infrastructure.csproj"
+              "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.Infrastructure\\CryptoTracker.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.Infrastructure\\CryptoTracker.Infrastructure.csproj"
               }
             }
           }
@@ -58,6 +58,32 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.15, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[8.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.15, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"
@@ -86,14 +112,14 @@
         }
       }
     },
-    "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren\\Tracker\\CryptoTracker\\CryptoTracker.Application\\CryptoTracker.Application.csproj": {
+    "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.Application\\CryptoTracker.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren\\Tracker\\CryptoTracker\\CryptoTracker.Application\\CryptoTracker.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.Application\\CryptoTracker.Application.csproj",
         "projectName": "CryptoTracker.Application",
-        "projectPath": "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren\\Tracker\\CryptoTracker\\CryptoTracker.Application\\CryptoTracker.Application.csproj",
+        "projectPath": "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.Application\\CryptoTracker.Application.csproj",
         "packagesPath": "C:\\Users\\Matbaaloji Yazılım\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren\\Tracker\\CryptoTracker\\CryptoTracker.Application\\obj\\",
+        "outputPath": "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -115,8 +141,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren\\Tracker\\CryptoTracker\\CryptoTracker.Domain\\CryptoTracker.Domain.csproj": {
-                "projectPath": "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren\\Tracker\\CryptoTracker\\CryptoTracker.Domain\\CryptoTracker.Domain.csproj"
+              "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.Domain\\CryptoTracker.Domain.csproj": {
+                "projectPath": "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.Domain\\CryptoTracker.Domain.csproj"
               }
             }
           }
@@ -156,14 +182,14 @@
         }
       }
     },
-    "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren\\Tracker\\CryptoTracker\\CryptoTracker.Domain\\CryptoTracker.Domain.csproj": {
+    "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.Domain\\CryptoTracker.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren\\Tracker\\CryptoTracker\\CryptoTracker.Domain\\CryptoTracker.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.Domain\\CryptoTracker.Domain.csproj",
         "projectName": "CryptoTracker.Domain",
-        "projectPath": "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren\\Tracker\\CryptoTracker\\CryptoTracker.Domain\\CryptoTracker.Domain.csproj",
+        "projectPath": "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.Domain\\CryptoTracker.Domain.csproj",
         "packagesPath": "C:\\Users\\Matbaaloji Yazılım\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren\\Tracker\\CryptoTracker\\CryptoTracker.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -222,14 +248,14 @@
         }
       }
     },
-    "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren\\Tracker\\CryptoTracker\\CryptoTracker.Infrastructure\\CryptoTracker.Infrastructure.csproj": {
+    "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.Infrastructure\\CryptoTracker.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren\\Tracker\\CryptoTracker\\CryptoTracker.Infrastructure\\CryptoTracker.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.Infrastructure\\CryptoTracker.Infrastructure.csproj",
         "projectName": "CryptoTracker.Infrastructure",
-        "projectPath": "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren\\Tracker\\CryptoTracker\\CryptoTracker.Infrastructure\\CryptoTracker.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.Infrastructure\\CryptoTracker.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Matbaaloji Yazılım\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren\\Tracker\\CryptoTracker\\CryptoTracker.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -251,8 +277,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren\\Tracker\\CryptoTracker\\CryptoTracker.Domain\\CryptoTracker.Domain.csproj": {
-                "projectPath": "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren\\Tracker\\CryptoTracker\\CryptoTracker.Domain\\CryptoTracker.Domain.csproj"
+              "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.Domain\\CryptoTracker.Domain.csproj": {
+                "projectPath": "C:\\Users\\Matbaaloji Yazılım\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.Domain\\CryptoTracker.Domain.csproj"
               }
             }
           }
@@ -273,7 +299,25 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.15, )"
+            },
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.15, )"
+            },
+            "Microsoft.Extensions.Identity.Core": {
               "target": "Package",
               "version": "[8.0.15, )"
             }
