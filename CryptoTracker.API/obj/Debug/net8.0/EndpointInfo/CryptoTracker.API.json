@@ -1,0 +1,68 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "CryptoTracker.API",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Coins": {
+      "get": {
+        "tags": [
+          "Coins"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Coins/list": {
+      "get": {
+        "tags": [
+          "Coins"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Coins/index": {
+      "get": {
+        "tags": [
+          "Coins"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Coins/detail/{id}": {
+      "get": {
+        "tags": [
+          "Coins"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

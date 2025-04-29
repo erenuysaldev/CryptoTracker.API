@@ -6,8 +6,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\CryptoTracker.Domain\CryptoTracker.Domain.csproj" />
-  </ItemGroup>
-
 </Project>

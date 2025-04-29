@@ -1,0 +1,13 @@
+﻿@model CryptoTracker.Application.ViewModels.CoinDetailViewModel
+
+<h2>@Model.Name (@Model.Symbol.ToUpper())</h2>
+<img src="@Model.ImageUrl" alt="@Model.Name" width="100" />
+
+<p><strong>Price:</strong> $@Model.CurrentPrice</p>
+<p><strong>Market Cap:</strong> $@Model.MarketCap</p>
+<p><strong>Total Volume:</strong> $@Model.TotalVolume</p>
+
+<div>
+    <h4>Description</h4>
+    <p>@Html.Raw(Model.Description)</p>
+</div>

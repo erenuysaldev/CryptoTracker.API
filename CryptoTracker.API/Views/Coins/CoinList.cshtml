@@ -1,0 +1,23 @@
+﻿using CryptoTracker.Application.ViewModels;
+@model List<CryptoTracker.Application.ViewModels.CoinViewModel>
+
+<h2>Top 10 Coins</h2>
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Symbol</th>
+            <th>Price (USD)</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var coin in Model)
+        {
+            <tr>
+                <td>@coin.Name</td>
+                <td>@coin.Symbol.ToUpper()</td>
+                <td>$@coin.CurrentPrice</td>
+            </tr>
+        }
+    </tbody>
+</table>

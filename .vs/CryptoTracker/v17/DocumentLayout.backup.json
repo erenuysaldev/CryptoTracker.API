@@ -98,8 +98,7 @@
               "RelativeToolTip": "CryptoTracker.Infrastructure\\Persistence\\IdentityUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T11:04:01.345Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T11:04:01.345Z"
             },
             {
               "$type": "Document",
@@ -109,7 +108,7 @@
               "RelativeDocumentMoniker": "CryptoTracker.Infrastructure\\Persistence\\DataSeeder.cs",
               "ToolTip": "C:\\Users\\Matbaaloji Yaz\u0131l\u0131m\\Desktop\\eren2\\CryptoTracker\\CryptoTracker.Infrastructure\\Persistence\\DataSeeder.cs",
               "RelativeToolTip": "CryptoTracker.Infrastructure\\Persistence\\DataSeeder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABYAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwEcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T09:39:24.028Z",
               "EditorCaption": ""
@@ -160,8 +159,7 @@
               "RelativeToolTip": "CryptoTracker.Domain\\Entities\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T08:40:58.549Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T08:40:58.549Z"
             },
             {
               "$type": "Document",
@@ -173,8 +171,7 @@
               "RelativeToolTip": "CryptoTracker.Domain\\Entities\\Coin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T08:39:44.818Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T08:39:44.818Z"
             },
             {
               "$type": "Document",
@@ -186,8 +183,7 @@
               "RelativeToolTip": "CryptoTracker.Domain\\Entities\\Favorite.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T08:40:57.259Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T08:40:57.259Z"
             },
             {
               "$type": "Document",
@@ -199,8 +195,7 @@
               "RelativeToolTip": "CryptoTracker.Infrastructure\\Persistence\\IdentityDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T09:50:29.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T09:50:29.781Z"
             },
             {
               "$type": "Document",

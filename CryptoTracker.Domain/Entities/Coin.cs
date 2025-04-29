@@ -8,11 +8,10 @@ namespace CryptoTracker.Domain.Entities
 {
     public class Coin
     {
-        public int Id { get; set; }
-        public string Name { get; set; } = null!;
+        public string Id { get; set; } = null!;
         public string Symbol { get; set; } = null!;
-        public decimal PriceUsd { get; set; }
-
-        public ICollection<Favorite> Favorites { get; set; } = new List<Favorite>();
+        public string Name { get; set; } = null!;
+        public decimal CurrentPrice { get; set; }
     }
 }
+

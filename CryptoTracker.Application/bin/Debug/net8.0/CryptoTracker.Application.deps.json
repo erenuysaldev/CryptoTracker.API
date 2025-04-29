@@ -7,30 +7,14 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "CryptoTracker.Application/1.0.0": {
-        "dependencies": {
-          "CryptoTracker.Domain": "1.0.0"
-        },
         "runtime": {
           "CryptoTracker.Application.dll": {}
-        }
-      },
-      "CryptoTracker.Domain/1.0.0": {
-        "runtime": {
-          "CryptoTracker.Domain.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
         }
       }
     }
   },
   "libraries": {
     "CryptoTracker.Application/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "CryptoTracker.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

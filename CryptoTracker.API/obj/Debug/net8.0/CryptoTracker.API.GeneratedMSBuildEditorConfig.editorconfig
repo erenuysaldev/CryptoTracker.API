@@ -9,13 +9,29 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CryptoTracker.API
 build_property.RootNamespace = CryptoTracker.API
-build_property.ProjectDir = C:\Users\Matbaaloji Yazılım\Desktop\eren2\CryptoTracker\CryptoTracker.API\
+build_property.ProjectDir = C:\Users\Matbaaloji Yazılım\Desktop\eren\Tracker\CryptoTracker\CryptoTracker.API\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Matbaaloji Yazılım\Desktop\eren2\CryptoTracker\CryptoTracker.API
+build_property.MSBuildProjectDirectory = C:\Users\Matbaaloji Yazılım\Desktop\eren\Tracker\CryptoTracker\CryptoTracker.API
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/Matbaaloji Yazılım/Desktop/eren/Tracker/CryptoTracker/CryptoTracker.API/Views/Coins/CoinList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29pbnNcQ29pbkxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Matbaaloji Yazılım/Desktop/eren/Tracker/CryptoTracker/CryptoTracker.API/Views/Coins/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29pbnNcRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Matbaaloji Yazılım/Desktop/eren/Tracker/CryptoTracker/CryptoTracker.API/Views/Coins/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29pbnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Matbaaloji Yazılım/Desktop/eren/Tracker/CryptoTracker/CryptoTracker.API/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
