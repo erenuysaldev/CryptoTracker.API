@@ -65,7 +65,7 @@ GET `api/coins/list`
 ### Coin Detayları (Detaylı Veri)
 GET `/api/coins/{id}`
 
-Bu endpoint, piyasa değeri en yüksek 10 kripto parayı döndürür.
+
 
 ## Katkıda Bulunma
 
