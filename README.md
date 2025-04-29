@@ -59,6 +59,11 @@ CryptoTracker, CoinGecko API'sini kullanarak popüler kripto para birimlerinin f
 
 ### Top 10 Kripto Para
 GET `/api/coins`
+Bu endpoint, piyasa değeri en yüksek 10 kripto parayı döndürür.
+### Coin Listesi
+GET `api/coins/list`
+### Coin Detayları (Detaylı Veri)
+GET `/api/coins/{id}`
 
 Bu endpoint, piyasa değeri en yüksek 10 kripto parayı döndürür.
 
