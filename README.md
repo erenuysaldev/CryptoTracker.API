@@ -20,7 +20,7 @@ CryptoTracker, CoinGecko API'sini kullanarak popüler kripto para birimlerinin f
 
 ### Gereksinimler
 
-- .NET 6.0 veya daha yeni bir sürüm
+- .NET 8.0 
 - Visual Studio 2022 veya benzeri bir IDE
 - CoinGecko API anahtarı (API entegrasyonu için gerekli)
 
